@@ -14,6 +14,8 @@ I am in way above my head in terms of data analysis and modeling, not to mention
 
 All epidemiological data is taken From Isha Berry's GitHub repository.
 
+Berry I, Soucy J-PR, Tuite A, Fisman D. Open access epidemiologic data and an interactive dashboard to monitor the COVID-19 outbreak in Canada. CMAJ. 2020 Apr 14;192(15):E420. doi: https://doi.org/10.1503/cmaj.75262
+
 Isha Berry is a PhD Candidate in Epidemiology at University of Toronto studying infectious disease transmission dynamics and global health. Isha co-founded the COVID-19 Canada Open Data Working Group in response to the need for accurate, up-to-date and accessible data on the COVID-19 epidemic in Canada. The working group collects individual-level epidemiological case data from publicly available sources and makes this data available in real-time. This dataset feeds into an interactive dashboard, which enables users to visualize pan-Canadian trends in health outcomes.
 
 Isha Berry's GitHub Repository: https://github.com/ishaberry/Covid19Canada
